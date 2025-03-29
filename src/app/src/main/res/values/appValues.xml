@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PaginasTitulo"> Calculadora de IMC </string>
+   <string name="BotaoCalcular"> Calcular o IMC </string>
+    <string name="BotaoComecar"> Calcule seu IMC </string>
+    <string name="BotaoLimpar"> Limpar </string>
+    <string name="BotaoFechar"> Fechar </string>
+    <string name="Peso"> ---- </string>
+    <string name="Altura"> ---- </string>
+ <string name="IMC"> ---- </string>
+    <string name="Resultado"> Resultado </string>
+    <string name="ClassificacaoAbaixoPeso"> Abaixo do Peso </string>
+    <string name="ClassificacaoPesoNormal"> Peso Normal </string>
+    <string name="ClassificacaoSobrePeso"> Sobrepeso </string>
+    <string name="ClassificacaoObesidadeGrau1"> Obesidade Grau 1 </string>
+    <string name="ClassificacaoObesidadeGrau2"> Obesidade Grau 2 </string>
+    <string name="ClassificacaoObesidadeGrau3"> Obesidade Grau 3 </string>
+
+
+    <color name="CorTitulo"> #006341 </color>
+    <color name="BotoesELinks"> #00A859 </color>
+    <color name="TextosSecundarios"> #4D4D4D </color>
+
+
+</resources>
